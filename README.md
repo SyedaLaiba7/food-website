@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Food Tuck Website - 🚚🌮 Hackathon Project
+This project is a responsive, pixel-perfect food truck website created as part of a hackathon. It is built using Next.js, TypeScript, Tailwind CSS, Material-UI, and ShadCN, following a Figma design. The goal of this project is to showcase modern web development practices while ensuring the website is fully responsive and optimized for all screen sizes.
 
-## Getting Started
+🎯 Project Purpose
+The purpose of this project is to provide a user-friendly platform for food truck enthusiasts and customers. It aims to offer essential features such as:
 
-First, run the development server:
+🥙 Browsing the food truck menu.
+📖 Learning about the food truck’s story.
+📍 Finding the truck’s location through a clean and intuitive interface.
+The design focuses on delivering a seamless user experience while maintaining pixel-perfect details across devices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+✨ Key Components Implemented
+📱 Responsive Design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Designed with Tailwind CSS to adapt the website beautifully across mobile, tablet, and desktop screens.
+🎨 Interactive UI
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Enhanced user experience through Material-UI components for sleek and modern interactions.
+🍔 Menu Section
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+A visually appealing menu that showcases the items served by the food truck, with detailed descriptions and pricing for each item.
+📍 Location and Contact Information
 
-## Learn More
+Integrated interactive maps and a contact form to help users easily find the food truck’s location and reach out for inquiries.
+🔗 Simple Navigation
 
-To learn more about Next.js, take a look at the following resources:
+A clean navbar that ensures smooth navigation to all the important sections of the website.
+⚡ Performance Optimization
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Leveraged Next.js for fast loading times, image optimization, and superior website performance.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🏆 Project Highlights
+A perfect blend of aesthetic design and functional elements.
+Focused on providing an engaging user journey while adhering to modern web standards.
+An ideal platform for showcasing a food truck business to attract food lovers and enthusiasts alike.
